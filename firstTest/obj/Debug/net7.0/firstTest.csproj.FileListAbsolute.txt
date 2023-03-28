@@ -1,0 +1,15 @@
+C:\Users\lj\Desktop\git\firstTest\bin\Debug\net7.0\firstTest.exe
+C:\Users\lj\Desktop\git\firstTest\bin\Debug\net7.0\firstTest.deps.json
+C:\Users\lj\Desktop\git\firstTest\bin\Debug\net7.0\firstTest.runtimeconfig.json
+C:\Users\lj\Desktop\git\firstTest\bin\Debug\net7.0\firstTest.dll
+C:\Users\lj\Desktop\git\firstTest\bin\Debug\net7.0\firstTest.pdb
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\firstTest.csproj.AssemblyReference.cache
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\firstTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\firstTest.AssemblyInfoInputs.cache
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\firstTest.AssemblyInfo.cs
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\firstTest.csproj.CoreCompileInputs.cache
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\firstTest.dll
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\refint\firstTest.dll
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\firstTest.pdb
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\firstTest.genruntimeconfig.cache
+C:\Users\lj\Desktop\git\firstTest\obj\Debug\net7.0\ref\firstTest.dll
